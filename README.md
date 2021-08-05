@@ -23,6 +23,4 @@ Predict if a customer is happy or not based on the answers they give to question
 
 Success Metrics:
 
-Reach 73% accuracy score or above, or convince us why your solution is superior. We are definitely interested in every solution and insight you can provide us.
-
-Try to submit your working solution as soon as possible. The sooner the better.
+Reach 73% accuracy score or above, or convince us why your solution is superior.
